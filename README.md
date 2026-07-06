@@ -1,5 +1,8 @@
-## Hi👋,I'm Prudhvinarayana 
-🚀 Backend Developer focused on building scalable, secure, and high-performance applications with Spring Boot and modern backend technologies.
+Hi 👋, I'm Prudhvinarayana
+
+🐍 Python Developer
+📚 Learning Data Structures & Algorithms
+💻 Aspiring Software Developer
 
 
 
